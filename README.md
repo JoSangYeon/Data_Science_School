@@ -12,5 +12,8 @@ reference : [Data Science School](https://datascienceschool.net/intro.html)
 3. 고급 선형대수
    1. [선형대수와 해석기하의 기초](https://github.com/JoSangYeon/Data_Science_School/blob/master/%EC%88%98%ED%95%99%ED%8E%B8/3%EC%9E%A5.%20%EA%B3%A0%EA%B8%89%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98/03-1.%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%EC%99%80%20%ED%95%B4%EC%84%9D%EA%B8%B0%ED%95%98%EC%9D%98%20%EA%B8%B0%EC%B4%88.pdf)
    2. [좌표와 변환](https://github.com/JoSangYeon/Data_Science_School/blob/master/%EC%88%98%ED%95%99%ED%8E%B8/3%EC%9E%A5.%20%EA%B3%A0%EA%B8%89%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98/03-2.%20%EC%A2%8C%ED%91%9C%EC%99%80%20%EB%B3%80%ED%99%98-2.pdf)
+   3. [고윳값 분해](https://github.com/JoSangYeon/Data_Science_School/blob/master/%EC%88%98%ED%95%99%ED%8E%B8/3%EC%9E%A5.%20%EA%B3%A0%EA%B8%89%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98/03-3.%20%EA%B3%A0%EC%9C%B3%EA%B0%92%20%EB%B6%84%ED%95%B4.pdf)
+   4. [특잇값 분해](https://github.com/JoSangYeon/Data_Science_School/blob/master/%EC%88%98%ED%95%99%ED%8E%B8/3%EC%9E%A5.%20%EA%B3%A0%EA%B8%89%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98/03-4.%20%ED%8A%B9%EC%9E%87%EA%B0%92%20%EB%B6%84%ED%95%B4.pdf)
+   5. [PCA](https://github.com/JoSangYeon/Data_Science_School/blob/master/%EC%88%98%ED%95%99%ED%8E%B8/3%EC%9E%A5.%20%EA%B3%A0%EA%B8%89%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98/03-5.%20PCA.pdf)
 
 ## [머신러닝편](https://datascienceschool.net/03%20machine%20learning/01.01%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EC%9D%98%20%EC%86%8C%EA%B0%9C.html)
